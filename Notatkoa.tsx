@@ -7,7 +7,8 @@ import 'reactjs-popup/dist/index.css'
 import supabase from './supabaseClient.js'
 import { useEffect, useState } from 'react'
 //import './tabela.css'; // Importowanie pliku CSS
-import '@/globals.css';
+import '../app/globals.css';
+
 
 // Definicja typu dla props
 interface NotatkaProps {
