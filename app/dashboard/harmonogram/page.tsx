@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import 'reactjs-popup/dist/index.css'
 import MessageSender from '@/MessageSender';
